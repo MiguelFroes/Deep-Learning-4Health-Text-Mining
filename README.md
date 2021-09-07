@@ -4,16 +4,16 @@ Learning from Health Data 2021
 
 Working for python 3.7.2 for Windows64
 
-##Instal Virtual Environment:
+## Instal Virtual Environment:
   pip install virtualenv
 
-##Create Empty Virtual Environment:
+## Create Empty Virtual Environment:
   virtualenv --no-site-packages my_lab_env (Alternative: python -m venv my_lab_env)
 
-##Activate Virtual Environoment:
+## Activate Virtual Environoment:
   source my_lab_env/bin/activate (Windows: .\my_lab_env\Scripts\activate)
 
-##Add Virtual Environment to Jupyter Notebook:
+## Add Virtual Environment to Jupyter Notebook:
   pip install ipykernel
   pip install jupyter
   ipython kernel install --name=my_lab_env
