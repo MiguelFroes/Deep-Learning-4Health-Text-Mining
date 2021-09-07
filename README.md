@@ -1,6 +1,7 @@
 # Deep-LearningDeep-Learning-for-Health-Text-Mining
 Learning from Health Data 2021
 
+## 
 
 Working for python 3.7.2 for Windows64
 
@@ -15,9 +16,13 @@ Working for python 3.7.2 for Windows64
 
 ## Add Virtual Environment to Jupyter Notebook:
   pip install ipykernel
+  
   pip install jupyter
+  
   ipython kernel install --name=my_lab_env
+  
   pip install -r requirements.txt
+  
   jupyter notebook
 
 Select Lab[1-3].ipynb file, go to the toolbar option: Kernel, then Change Kernel and select my_lab_env
