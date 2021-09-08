@@ -1,4 +1,4 @@
-# Deep-LearningDeep-Learning-for-Health-Text-Mining
+# Deep-Learning-for-Health-Text-Mining
 
 Working for python 3.6.3 for Windows64
 ### Instal Virtual Environment:
